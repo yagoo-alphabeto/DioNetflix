@@ -93,13 +93,23 @@ header nav a:hover {
 
 
 .botao i {
-    margin-right: 8px;
+    margin: 5px;
+}
+
+.buton {
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.carroself {
+    margin-top: 10px;
 }
 
 
-
-
-
-
+.banner {
+    margin: 15px;
+    color: var(--vermelho);
+    font-size: 25px;
+}
 
 
